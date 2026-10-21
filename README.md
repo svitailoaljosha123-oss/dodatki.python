@@ -1,0 +1,2 @@
+# dodatki.python
+Python first
