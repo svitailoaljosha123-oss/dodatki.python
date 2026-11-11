@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kovdrysh Volodymyr Volodymyrovich",
+        "faculty": "Математичний факультет",
+        "grades": [
+            5
+        ]
+    },
+    {
+        "name": "Kosovan Vasyl Mishailovich",
+        "faculty": "Математичний факультет",
+        "grades": []
+    }
+]
